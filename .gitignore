@@ -1,0 +1,5 @@
+.env
+.rag1venv/
+vector_db/
+__pycache__/
+*.py[cod]
